@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
-
-//�ϸ���
+//我是你爸爸
+//ÀÏ¸¸Ç×
 @RequestMapping("controller")
 @Controller
 public class StudentController {
